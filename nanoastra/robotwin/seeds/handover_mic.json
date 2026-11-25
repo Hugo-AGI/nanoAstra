@@ -1,0 +1,126 @@
+{
+ "seeds": [
+  100000,
+  100002,
+  100003,
+  100004,
+  100005,
+  100006,
+  100007,
+  100008,
+  100009,
+  100012,
+  100013,
+  100014,
+  100015,
+  100018,
+  100019,
+  100020,
+  100022,
+  100024,
+  100025,
+  100026
+ ],
+ "infos": [
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base4",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "018_microphone/base4",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "018_microphone/base4",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "018_microphone/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base5",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "018_microphone/base4",
+   "{a}": "left",
+   "{b}": "right"
+  }
+ ]
+}

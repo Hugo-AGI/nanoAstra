@@ -1,0 +1,106 @@
+{
+ "seeds": [
+  100000,
+  100001,
+  100002,
+  100003,
+  100004,
+  100005,
+  100008,
+  100011,
+  100012,
+  100013,
+  100014,
+  100015,
+  100016,
+  100017,
+  100019,
+  100022,
+  100024,
+  100025,
+  100026,
+  100028
+ ],
+ "infos": [
+  {
+   "{A}": "041_shoe/base6",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base5",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base6",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base6",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base5",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base4",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base0",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base1",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base7",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base7",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base8",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base8",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base9",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base8",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base1",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base8",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base4",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base4",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base4",
+   "{B}": "007_shoe-box/base0"
+  },
+  {
+   "{A}": "041_shoe/base1",
+   "{B}": "007_shoe-box/base0"
+  }
+ ]
+}

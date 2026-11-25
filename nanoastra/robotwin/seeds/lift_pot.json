@@ -1,0 +1,86 @@
+{
+ "seeds": [
+  100001,
+  100002,
+  100007,
+  100009,
+  100017,
+  100021,
+  100022,
+  100023,
+  100027,
+  100029,
+  100030,
+  100031,
+  100038,
+  100041,
+  100047,
+  100048,
+  100052,
+  100054,
+  100055,
+  100063
+ ],
+ "infos": [
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  },
+  {
+   "{A}": "060_kitchenpot/base0"
+  }
+ ]
+}

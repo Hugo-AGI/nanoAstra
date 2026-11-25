@@ -1,0 +1,6 @@
+# On top of the RoboTwin 2.0 environment (see RoboTwin/README.md).
+numpy
+pillow>=10.1
+pyyaml
+transforms3d
+imageio[ffmpeg]

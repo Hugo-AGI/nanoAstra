@@ -1,0 +1,146 @@
+{
+ "seeds": [
+  100002,
+  100007,
+  100026,
+  100055,
+  100056,
+  100060,
+  100074,
+  100091,
+  100123,
+  100153,
+  100156,
+  100168,
+  100194,
+  100223,
+  100230,
+  100234,
+  100248,
+  100263,
+  100269,
+  100306
+ ],
+ "infos": [
+  {
+   "{A}": "048_stapler/base5",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "075_bread/base0",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base0",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "047_mouse/base1",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "075_bread/base0",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "112_tea-box/base4",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "077_phone/base3",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "107_soap/base2",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "107_soap/base0",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "075_bread/base3",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "107_soap/base1",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "107_soap/base3",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "047_mouse/base2",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "081_playingcards/base1",
+   "{B}": "036_cabinet/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "057_toycar/base0",
+   "{B}": "036_cabinet/base0",
+   "{a}": "right",
+   "{b}": "left"
+  }
+ ]
+}

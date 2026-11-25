@@ -1,0 +1,126 @@
+{
+ "seeds": [
+  100000,
+  100002,
+  100003,
+  100004,
+  100005,
+  100006,
+  100007,
+  100008,
+  100009,
+  100010,
+  100011,
+  100012,
+  100013,
+  100014,
+  100015,
+  100017,
+  100018,
+  100019,
+  100020,
+  100021
+ ],
+ "infos": [
+  {
+   "{A}": "071_can/base0",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base3"
+  },
+  {
+   "{A}": "071_can/base2",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base6",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base1",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base5"
+  },
+  {
+   "{A}": "071_can/base1",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base5",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base2",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base1"
+  },
+  {
+   "{A}": "071_can/base0",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base2",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base3"
+  },
+  {
+   "{A}": "071_can/base3",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base1"
+  },
+  {
+   "{A}": "071_can/base5",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base3"
+  },
+  {
+   "{A}": "071_can/base1",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base3",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base3"
+  },
+  {
+   "{A}": "071_can/base1",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base3"
+  },
+  {
+   "{A}": "071_can/base6",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base6",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base2"
+  },
+  {
+   "{A}": "071_can/base3",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base5"
+  },
+  {
+   "{A}": "071_can/base1",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base0"
+  },
+  {
+   "{A}": "071_can/base1",
+   "{B}": "062_plasticbox/base3",
+   "{C}": "071_can/base3"
+  },
+  {
+   "{A}": "071_can/base6",
+   "{B}": "062_plasticbox/base5",
+   "{C}": "071_can/base3"
+  }
+ ]
+}

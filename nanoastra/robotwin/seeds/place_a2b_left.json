@@ -1,0 +1,126 @@
+{
+ "seeds": [
+  100000,
+  100002,
+  100004,
+  100005,
+  100006,
+  100007,
+  100008,
+  100009,
+  100010,
+  100011,
+  100012,
+  100013,
+  100014,
+  100017,
+  100018,
+  100019,
+  100020,
+  100022,
+  100023,
+  100024
+ ],
+ "infos": [
+  {
+   "{A}": "077_phone/base0",
+   "{B}": "048_stapler/base6",
+   "{a}": "left"
+  },
+  {
+   "{A}": "112_tea-box/base1",
+   "{B}": "075_bread/base0",
+   "{a}": "right"
+  },
+  {
+   "{A}": "113_coffee-box/base2",
+   "{B}": "050_bell/base1",
+   "{a}": "right"
+  },
+  {
+   "{A}": "047_mouse/base2",
+   "{B}": "081_playingcards/base0",
+   "{a}": "right"
+  },
+  {
+   "{A}": "047_mouse/base2",
+   "{B}": "073_rubikscube/base0",
+   "{a}": "left"
+  },
+  {
+   "{A}": "077_phone/base1",
+   "{B}": "081_playingcards/base0",
+   "{a}": "left"
+  },
+  {
+   "{A}": "077_phone/base2",
+   "{B}": "113_coffee-box/base6",
+   "{a}": "left"
+  },
+  {
+   "{A}": "112_tea-box/base5",
+   "{B}": "086_woodenblock/base4",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "113_coffee-box/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "075_bread/base4",
+   "{B}": "077_phone/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "107_soap/base3",
+   "{B}": "048_stapler/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "073_rubikscube/base1",
+   "{a}": "right"
+  },
+  {
+   "{A}": "077_phone/base1",
+   "{B}": "086_woodenblock/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "047_mouse/base1",
+   "{B}": "075_bread/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "047_mouse/base0",
+   "{B}": "086_woodenblock/base1",
+   "{a}": "right"
+  },
+  {
+   "{A}": "050_bell/base0",
+   "{B}": "075_bread/base4",
+   "{a}": "right"
+  },
+  {
+   "{A}": "050_bell/base0",
+   "{B}": "113_coffee-box/base2",
+   "{a}": "right"
+  },
+  {
+   "{A}": "113_coffee-box/base4",
+   "{B}": "077_phone/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "075_bread/base4",
+   "{B}": "073_rubikscube/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "112_tea-box/base1",
+   "{B}": "047_mouse/base1",
+   "{a}": "right"
+  }
+ ]
+}

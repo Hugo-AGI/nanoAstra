@@ -1,0 +1,146 @@
+{
+ "seeds": [
+  100000,
+  100001,
+  100002,
+  100003,
+  100004,
+  100005,
+  100006,
+  100007,
+  100008,
+  100010,
+  100011,
+  100012,
+  100013,
+  100014,
+  100015,
+  100016,
+  100017,
+  100019,
+  100021,
+  100022
+ ],
+ "infos": [
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "red block",
+   "{B}": "green block",
+   "{a}": "right",
+   "{b}": "left"
+  }
+ ]
+}

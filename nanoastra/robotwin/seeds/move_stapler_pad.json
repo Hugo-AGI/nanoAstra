@@ -1,0 +1,126 @@
+{
+ "seeds": [
+  100000,
+  100001,
+  100002,
+  100003,
+  100004,
+  100005,
+  100006,
+  100007,
+  100008,
+  100011,
+  100012,
+  100013,
+  100014,
+  100015,
+  100016,
+  100017,
+  100018,
+  100020,
+  100021,
+  100022
+ ],
+ "infos": [
+  {
+   "{A}": "048_stapler/base2",
+   "{B}": "Yellow",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "Green",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base3",
+   "{B}": "Green",
+   "{a}": "right"
+  },
+  {
+   "{A}": "048_stapler/base3",
+   "{B}": "Yellow",
+   "{a}": "right"
+  },
+  {
+   "{A}": "048_stapler/base5",
+   "{B}": "Gray",
+   "{a}": "right"
+  },
+  {
+   "{A}": "048_stapler/base0",
+   "{B}": "Magenta",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "Green",
+   "{a}": "right"
+  },
+  {
+   "{A}": "048_stapler/base4",
+   "{B}": "Green",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base0",
+   "{B}": "Red",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base6",
+   "{B}": "Red",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base3",
+   "{B}": "Green",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base1",
+   "{B}": "Yellow",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base2",
+   "{B}": "Green",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base0",
+   "{B}": "Magenta",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base3",
+   "{B}": "Magenta",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base3",
+   "{B}": "Blue",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base2",
+   "{B}": "Gray",
+   "{a}": "right"
+  },
+  {
+   "{A}": "048_stapler/base4",
+   "{B}": "Magenta",
+   "{a}": "right"
+  },
+  {
+   "{A}": "048_stapler/base5",
+   "{B}": "Gray",
+   "{a}": "left"
+  },
+  {
+   "{A}": "048_stapler/base5",
+   "{B}": "Gray",
+   "{a}": "left"
+  }
+ ]
+}

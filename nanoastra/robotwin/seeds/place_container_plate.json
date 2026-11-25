@@ -1,0 +1,126 @@
+{
+ "seeds": [
+  100000,
+  100001,
+  100002,
+  100003,
+  100005,
+  100006,
+  100007,
+  100008,
+  100009,
+  100011,
+  100013,
+  100015,
+  100018,
+  100020,
+  100022,
+  100023,
+  100024,
+  100025,
+  100029,
+  100030
+ ],
+ "infos": [
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base5",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base1",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "021_cup/base2",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "021_cup/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base2",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base5",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base2",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "021_cup/base4",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base3",
+   "{a}": "right"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "021_cup/base4",
+   "{a}": "left"
+  },
+  {
+   "{A}": "003_plate/base0",
+   "{B}": "002_bowl/base5",
+   "{a}": "left"
+  }
+ ]
+}

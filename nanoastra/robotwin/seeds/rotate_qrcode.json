@@ -1,0 +1,106 @@
+{
+ "seeds": [
+  100000,
+  100001,
+  100002,
+  100004,
+  100005,
+  100006,
+  100007,
+  100008,
+  100009,
+  100011,
+  100014,
+  100015,
+  100016,
+  100017,
+  100018,
+  100019,
+  100021,
+  100022,
+  100023,
+  100024
+ ],
+ "infos": [
+  {
+   "{A}": "070_paymentsign/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base3",
+   "{a}": "right"
+  },
+  {
+   "{A}": "070_paymentsign/base1",
+   "{a}": "right"
+  },
+  {
+   "{A}": "070_paymentsign/base0",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base1",
+   "{a}": "right"
+  },
+  {
+   "{A}": "070_paymentsign/base0",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base0",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base3",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base2",
+   "{a}": "right"
+  },
+  {
+   "{A}": "070_paymentsign/base2",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base1",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base0",
+   "{a}": "left"
+  },
+  {
+   "{A}": "070_paymentsign/base0",
+   "{a}": "left"
+  }
+ ]
+}

@@ -1,0 +1,146 @@
+{
+ "seeds": [
+  100000,
+  100002,
+  100003,
+  100007,
+  100008,
+  100009,
+  100012,
+  100013,
+  100014,
+  100018,
+  100021,
+  100022,
+  100023,
+  100024,
+  100025,
+  100028,
+  100029,
+  100030,
+  100031,
+  100032
+ ],
+ "infos": [
+  {
+   "{A}": "057_toycar/base1",
+   "{B}": "110_basket/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "057_toycar/base2",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "057_toycar/base2",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "110_basket/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "081_playingcards/base0",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base0",
+   "{B}": "110_basket/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base0",
+   "{B}": "110_basket/base1",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "057_toycar/base3",
+   "{B}": "110_basket/base1",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "057_toycar/base3",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "057_toycar/base3",
+   "{B}": "110_basket/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "057_toycar/base5",
+   "{B}": "110_basket/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "081_playingcards/base1",
+   "{B}": "110_basket/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "110_basket/base0",
+   "{a}": "right",
+   "{b}": "left"
+  },
+  {
+   "{A}": "057_toycar/base0",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "057_toycar/base0",
+   "{B}": "110_basket/base1",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base2",
+   "{B}": "110_basket/base0",
+   "{a}": "left",
+   "{b}": "right"
+  },
+  {
+   "{A}": "081_playingcards/base1",
+   "{B}": "110_basket/base0",
+   "{a}": "right",
+   "{b}": "left"
+  }
+ ]
+}
